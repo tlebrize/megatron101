@@ -1,0 +1,1 @@
+CREATE TABLE vote(uid TEXT, user TEXT, target TEXT)
